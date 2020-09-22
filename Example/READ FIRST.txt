@@ -1,0 +1,6 @@
+Make sure you add the dpbass module to the project.
+The project is just a example on how YOU can spice up your programs
+with some nice looken grafix and tricks.
+
+
+By: Alan AKA Sprink
